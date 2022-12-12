@@ -1,0 +1,22 @@
+body
+{
+    color: blue;
+    font-weight: bold;
+
+}
+
+h1
+{
+    color: red;
+    font-style: italic;
+} 
+h2
+{
+    color: yellow;
+    font-style: calc();
+}
+h3
+{
+    color: green;
+    font-style: initial;
+}
